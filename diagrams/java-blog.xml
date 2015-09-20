@@ -2,9 +2,42 @@
 	<entity>
 		<entity-name>com.ubru.cs.entity.User</entity-name>
 		<entity-width>120</entity-width>
-		<entity-height>70</entity-height>
-		<entity-X-Coordinate>170</entity-X-Coordinate>
-		<entity-Y-Coordinate>160</entity-Y-Coordinate>
+		<entity-height>206</entity-height>
+		<entity-X-Coordinate>110</entity-X-Coordinate>
+		<entity-Y-Coordinate>78</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.ubru.cs.entity.Role</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>146</entity-height>
+		<entity-X-Coordinate>359</entity-X-Coordinate>
+		<entity-Y-Coordinate>30</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.ubru.cs.entity.Blog</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>186</entity-height>
+		<entity-X-Coordinate>384</entity-X-Coordinate>
+		<entity-Y-Coordinate>214</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.ubru.cs.entity.Item</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>206</entity-height>
+		<entity-X-Coordinate>610</entity-X-Coordinate>
+		<entity-Y-Coordinate>50</entity-Y-Coordinate>
 		<primary-collapsed>false</primary-collapsed>
 		<relation-collapsed>false</relation-collapsed>
 		<basic-collapsed>false</basic-collapsed>
